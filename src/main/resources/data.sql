@@ -1,0 +1,8 @@
+--INSERT INTO products
+--(name, description, brand, price, category, release_Date, available, quantity, image_name , image_type, image_data)
+--VALUES
+--('Vintage Jacket', 'A classic leather jacket from the 80s.', 'RetroWear', 5999.99, 'Clothing', '2025-04-24', true, 10, 'vintage_jacket.jpg', 'image/jpeg', NULL),
+--('Antique Clock', 'A handcrafted wall clock from 1920.', 'OldTime', 12999.50, 'Home Decor', '2025-04-20', true, 5, 'antique_clock.png', 'image/png', NULL),
+--('Classic Guitar', 'A vintage acoustic guitar with deep tones.', 'StrumMaster', 8999.00, 'Musical Instruments', '2025-04-15', true, 3, 'classic_guitar.jpg', 'image/jpeg', NULL),
+--('Retro Sneakers', 'Limited edition 90s sneakers.', 'SneakPeak', 4999.75, 'Footwear', '2025-04-10', true, 15, 'retro_sneakers.png', 'image/png', NULL),
+--('Vintage Lamp', 'An art deco table lamp from 1940.', 'BrightAge', 3499.20, 'Home Decor', '2025-04-05', true, 8, 'vintage_lamp.jpg', 'image/jpeg', NULL);

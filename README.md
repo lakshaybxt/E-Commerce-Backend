@@ -11,6 +11,10 @@ The backend is built using **Spring Boot** and supports interactions via **HTTP 
 ## 📍 Base URL
 http://localhost:8080/api
 
+---
+
+## 📍 Documentation Link
+https://documenter.getpostman.com/view/44336807/2sB2j68VQj
 
 ---
 
